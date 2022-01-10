@@ -1,0 +1,6 @@
+/Users/erhanozgan/Desktop/siliconMade/Öğrenci Yönetim Uygulaması g022/OgrenciYonetimUygulamasi/OgrenciYonetimUygulamasi/bin/Debug/OgrenciYonetimUygulamasi.exe
+/Users/erhanozgan/Desktop/siliconMade/Öğrenci Yönetim Uygulaması g022/OgrenciYonetimUygulamasi/OgrenciYonetimUygulamasi/bin/Debug/OgrenciYonetimUygulamasi.pdb
+/Users/erhanozgan/Desktop/siliconMade/Öğrenci Yönetim Uygulaması g022/OgrenciYonetimUygulamasi/OgrenciYonetimUygulamasi/obj/Debug/OgrenciYonetimUygulamasi.csproj.AssemblyReference.cache
+/Users/erhanozgan/Desktop/siliconMade/Öğrenci Yönetim Uygulaması g022/OgrenciYonetimUygulamasi/OgrenciYonetimUygulamasi/obj/Debug/OgrenciYonetimUygulamasi.csproj.CoreCompileInputs.cache
+/Users/erhanozgan/Desktop/siliconMade/Öğrenci Yönetim Uygulaması g022/OgrenciYonetimUygulamasi/OgrenciYonetimUygulamasi/obj/Debug/OgrenciYonetimUygulamasi.exe
+/Users/erhanozgan/Desktop/siliconMade/Öğrenci Yönetim Uygulaması g022/OgrenciYonetimUygulamasi/OgrenciYonetimUygulamasi/obj/Debug/OgrenciYonetimUygulamasi.pdb

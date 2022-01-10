@@ -1,0 +1,24 @@
+﻿<Properties StartupConfiguration="{49EBD2D4-E114-4E07-82DD-47E51817C617}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="OgrenciYonetimUygulamasi/Program.cs">
+    <Files>
+      <File FileName="OgrenciYonetimUygulamasi/Program.cs" Line="48" Column="10" />
+      <File FileName="OgrenciYonetimUygulamasi/Ogrenci.cs" Line="4" Column="11" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="OgrenciYonetimUygulamasi" expanded="True">
+            <Node name="OgrenciYonetimUygulamasi" expanded="True" selected="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.OgrenciYonetimUygulamasi PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|anycpu" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
